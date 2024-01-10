@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SETUP</title>
+    <title>SETUP NEW</title>
 <link rel="shortcut icon" href="Resources/hmbct.png" />
 </head>
 <body>
